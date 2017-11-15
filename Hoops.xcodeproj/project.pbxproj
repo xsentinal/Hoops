@@ -12,7 +12,7 @@
 		FF0283C91FBB7758003C1AF1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF0283C71FBB7758003C1AF1 /* Main.storyboard */; };
 		FF0283CB1FBB7758003C1AF1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF0283CA1FBB7758003C1AF1 /* Assets.xcassets */; };
 		FF0283CE1FBB7758003C1AF1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF0283CC1FBB7758003C1AF1 /* LaunchScreen.storyboard */; };
-		FF6CC4961FBB838300178B94 /* Ball.scn in Resources */ = {isa = PBXBuildFile; fileRef = FF6CC4951FBB838300178B94 /* Ball.scn */; };
+		FF87D0EE1FBC7A9F007809F0 /* Basketball.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = FF87D0ED1FBC7A9F007809F0 /* Basketball.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		FF0283CA1FBB7758003C1AF1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FF0283CD1FBB7758003C1AF1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FF0283CF1FBB7758003C1AF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FF6CC4951FBB838300178B94 /* Ball.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = Ball.scn; sourceTree = "<group>"; };
+		FF87D0ED1FBC7A9F007809F0 /* Basketball.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = Basketball.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 				FF0283CA1FBB7758003C1AF1 /* Assets.xcassets */,
 				FF0283CC1FBB7758003C1AF1 /* LaunchScreen.storyboard */,
 				FF0283CF1FBB7758003C1AF1 /* Info.plist */,
-				FF6CC4951FBB838300178B94 /* Ball.scn */,
+				FF87D0ED1FBC7A9F007809F0 /* Basketball.scnassets */,
 			);
 			path = Hoops;
 			sourceTree = "<group>";
@@ -126,7 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FF6CC4961FBB838300178B94 /* Ball.scn in Resources */,
+				FF87D0EE1FBC7A9F007809F0 /* Basketball.scnassets in Resources */,
 				FF0283CE1FBB7758003C1AF1 /* LaunchScreen.storyboard in Resources */,
 				FF0283CB1FBB7758003C1AF1 /* Assets.xcassets in Resources */,
 				FF0283C91FBB7758003C1AF1 /* Main.storyboard in Resources */,
